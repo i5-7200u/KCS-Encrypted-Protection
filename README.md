@@ -1,5 +1,5 @@
 # KCS-Encrypted-Protection
-Açik kaynak hibrit şifreleme algoritmasi / Open source hybrid encryption algorithm
+Açik kaynak hibrit şifreleme algoritmasi. / Open source hybrid encryption algorithm.
 
 
 
